@@ -3,7 +3,7 @@
 ## Dataset
 
 The experimental datasets should be placed in the data folder after your application is approved.
-The original datasets are from the paper: ["**Bad Actor, Good Advisor: Exploring the Role of Large Language Models in Fake News Detection**"](https://arxiv.org/abs/2309.12247), which has been accepted by AAAI 2024. We cannot provide the original datasets because they were not collected by us and we are not authorized to distribute them. We only provide our extracted Topic and Content. Note that you can download the datasets only after an ["Application to Use the Datasets from ARG for Fake News Detection"](https://forms.office.com/r/DfVwbsbVyM) has been submitted. Please visit the links provided to obtain the original datasets and cite the ARG paper.
+The original datasets are from the paper: ["**Bad Actor, Good Advisor: Exploring the Role of Large Language Models in Fake News Detection**"](https://arxiv.org/abs/2309.12247), which has been accepted by AAAI 2024. We cannot provide the original datasets because they were not collected by us and we are not authorized to distribute them. We only provide how we extract Topic and Content. Note that you can download the datasets only after an ["Application to Use the Datasets from ARG for Fake News Detection"](https://forms.office.com/r/DfVwbsbVyM) has been submitted. Please visit the links provided to obtain the original datasets and cite the ARG paper.
 
 ## Code
 
