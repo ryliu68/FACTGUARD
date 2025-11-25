@@ -30,7 +30,7 @@ After you apply for the datasets, please replace the content of the "cs_rational
 
 ### Code introduction
 
-Our code is adapted from the original implementation provided by the authors of the ARG paper. All models and training codes used are stored under the `models` folder:
+Our code is adapted from the original implementation provided by the authors of the [ARG paper](https://github.com/ICTMCG/ARG). All models and training codes used are stored under the `models` folder:
 - `factguard.py` is the main model code;
 - `factguardd.py` is the distillation model code;
 - `layers.py` contains layers and modules used in the model training process;
