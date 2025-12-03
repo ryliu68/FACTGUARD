@@ -1,4 +1,4 @@
-# FACTGUARD: Event-Centric and Commonsense-Guided Fake News Detection.
+# [FACTGUARD: Event-Centric and Commonsense-Guided Fake News Detection](https://arxiv.org/abs/2511.10281).
 
 ## Dataset
 
